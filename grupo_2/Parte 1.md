@@ -1,4 +1,4 @@
-### Grupo 2 ###
+# Grupo 2 #
 
-Integrantes:
+### Integrantes ###
 -
