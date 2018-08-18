@@ -3,6 +3,13 @@
   - Richard da Silva Francisco de Souza - 14/0091793
   - Luyza Lorenna L. Lopes - 16/0135133
   - Matheus de Avila Mariano - 16/0137896
+### Tema ###
+Linhas de trajetória de um escoamento fluido
+
+### Objetivo do experimento ###
+
+### Escopo do experimento ###
+
 
 ### 1.	Início: ###
 
