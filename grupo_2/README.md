@@ -4,12 +4,16 @@
   - Luyza Lorenna L. Lopes - 16/0135133
   - Matheus de Avila Mariano - 16/0137896
 ### Tema ###
-Linhas de trajetória de um escoamento fluido
+Experimentos em túnel de vento
 
 ### Objetivo do experimento ###
+Medir o coeficiente de arrasto de um objeto(à determinar).
 
 ### Escopo do experimento ###
-
+  - Levantamento da teoria necessária para a realização do experimento;
+  - Levantamento de dados e variáveis necessários para o cálculo;
+  - Escolha do objeto a ser analisado no experimento em questão;
+  - Realização do experimento em si, com o túnel de vento.
 
 ### 1.	Início: ###
 
