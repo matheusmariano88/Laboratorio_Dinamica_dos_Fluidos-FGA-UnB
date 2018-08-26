@@ -89,3 +89,33 @@ Medir o coeficiente de arrasto de um objeto(à determinar).
 - Levantamento das forças devidas as ações estática e dinâmica do vento;
 - Escolha do objeto a ser analisado no experimento em questão;
 - Realização do experimento em si, com o túnel de vento do Laboratório de Termofluidos da FGA.
+
+## Relatório 2-Grupo 2
+
+### Identificação do Grupo
+
+### Teoria do Experimento
+
+- Forças Aerodinâmiscas;
+- Pressão de um fluido em superfície plana;
+-
+
+### Procedimentos Experimentais
+#### Procedimento 1 ####
+- Estimativas de tempo:
+    - Montagem:
+    - Execução:
+- Responsável:
+#### Procedimento 2 ####
+- Estimativas de tempo:
+    - Montagem:
+    - Execução:
+- Responsável:
+#### Procedimento 3 ####
+- Estimativas de tempo:
+    - Montagem:
+    - Execução:
+- Responsável:
+### Determinação de dados
+
+### Resultados esperados
